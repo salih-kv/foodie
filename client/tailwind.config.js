@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["ClashDisplay-Regular", ...defaultTheme.fontFamily.sans],
+        sans: ["BasisGrotesquePro-Regular", ...defaultTheme.fontFamily.sans],
       },
       colors: {
         tomato: "#E50914",
